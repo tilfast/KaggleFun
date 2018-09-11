@@ -101,4 +101,8 @@ Feature generation
     https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering
 
 
+Validation in Sklearn:
+
+   http://scikit-learn.org/stable/modules/cross_validation.html
+
 
